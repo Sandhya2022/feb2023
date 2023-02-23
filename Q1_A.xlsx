@@ -1,0 +1,237 @@
+	1. Tell me about yourself?
+	First of all, Thank you so much for giving me an opportunity to introduce myself.
+	I am Sandhya, I'm from Hyderabad.
+	I got MBA certificate from JNTU-A with 75%. 
+	Prior to this I did my BSc computers with 72%.
+	I belong to a nuclear family.
+	My husband is working as a safety expert in Automotive domain. My son studying LKG, 
+	My strength is I am a quick learner, self-motivated and a hard-working person.
+	My weakness is quickly trusting every person and I trying to overcome my weakness.
+	My short-term goal is to nail this interview and get a job in this company.
+	My long-term goal is to get a respected position in this company.
+	If I get an opportunity to work in this company I trust you that I have worked hard and I gave my best.
+	That's all about me.
+	Thank you.
+	
+	
+	2. What is SDLC?
+	Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality softwares. 
+	What is SDLC?
+	SDLC is a process followed for a software project, within a software organization. It consists of a detailed plan describing how to develop, maintain, replace and alter or enhance specific software. The life cycle defines a methodology for improving the quality of software and the overall development process.
+	The following figure is a graphical representation of the various stages of a typical SDLC.
+	
+	A typical Software Development Life Cycle consists of the following stages −
+	Stage 1: Planning and Requirement Analysis
+	Requirement analysis is the most important and fundamental stage in SDLC. It is performed by the senior members of the team with inputs from the customer, the sales department, market surveys and domain experts in the industry. This information is then used to plan the basic project approach and to conduct product feasibility study in the economical, operational and technical areas.
+	Planning for the quality assurance requirements and identification of the risks associated with the project is also done in the planning stage. The outcome of the technical feasibility study is to define the various technical approaches that can be followed to implement the project successfully with minimum risks.
+	Stage 2: Defining Requirements
+	Once the requirement analysis is done the next step is to clearly define and document the product requirements and get them approved from the customer or the market analysts. This is done through an SRS (Software Requirement Specification) document which consists of all the product requirements to be designed and developed during the project life cycle.
+	Stage 3: Designing the Product Architecture
+	SRS is the reference for product architects to come out with the best architecture for the product to be developed. Based on the requirements specified in SRS, usually more than one design approach for the product architecture is proposed and documented in a DDS - Design Document Specification.
+	This DDS is reviewed by all the important stakeholders and based on various parameters as risk assessment, product robustness, design modularity, budget and time constraints, the best design approach is selected for the product.
+	A design approach clearly defines all the architectural modules of the product along with its communication and data flow representation with the external and third party modules (if any). The internal design of all the modules of the proposed architecture should be clearly defined with the minutest of the details in DDS.
+	Stage 4: Building or Developing the Product
+	In this stage of SDLC the actual development starts and the product is built. The programming code is generated as per DDS during this stage. If the design is performed in a detailed and organized manner, code generation can be accomplished without much hassle.
+	Developers must follow the coding guidelines defined by their organization and programming tools like compilers, interpreters, debuggers, etc. are used to generate the code. Different high level programming languages such as C, C++, Pascal, Java and PHP are used for coding. The programming language is chosen with respect to the type of software being developed.
+	Stage 5: Testing the Product
+	This stage is usually a subset of all the stages as in the modern SDLC models, the testing activities are mostly involved in all the stages of SDLC. However, this stage refers to the testing only stage of the product where product defects are reported, tracked, fixed and retested, until the product reaches the quality standards defined in the SRS.
+	Stage 6: Deployment in the Market and Maintenance
+	Once the product is tested and ready to be deployed it is released formally in the appropriate market. Sometimes product deployment happens in stages as per the business strategy of that organization. The product may first be released in a limited segment and tested in the real business environment (UAT- User acceptance testing).
+	Then based on the feedback, the product may be released as it is or with suggested enhancements in the targeting market segment. After the product is released in the market, its maintenance is done for the existing customer base.
+	SDLC Models
+	There are various software development life cycle models defined and designed which are followed during the software development process. These models are also referred as Software Development Process Models". Each process model follows a Series of steps unique to its type to ensure success in the process of software development.
+	Following are the most important and popular SDLC models followed in the industry −
+		• Waterfall Model
+		• Iterative Model
+		• Spiral Model
+		• V-Model
+		• Big Bang Model
+	
+	3. What is waterfall, agile and devops
+	The Waterfall Model was the first Process Model to be introduced. It is also referred to as a linear-sequential life cycle model. It is very simple to understand and use. In a waterfall model, each phase must be completed before the next phase can begin and there is no overlapping in the phases.
+	The Waterfall model is the earliest SDLC approach that was used for software development.
+	The waterfall Model illustrates the software development process in a linear sequential flow. This means that any phase in the development process begins only if the previous phase is complete. In this waterfall model, the phases do not overlap.
+	Waterfall Model - Design
+	Waterfall approach was first SDLC Model to be used widely in Software Engineering to ensure success of the project. In "The Waterfall" approach, the whole process of software development is divided into separate phases. In this Waterfall model, typically, the outcome of one phase acts as the input for the next phase sequentially.
+	The following illustration is a representation of the different phases of the Waterfall Model.
+	
+	The sequential phases in Waterfall model are −
+		• Requirement Gathering and analysis − All possible requirements of the system to be developed are captured in this phase and documented in a requirement specification document.
+		• System Design − The requirement specifications from first phase are studied in this phase and the system design is prepared. This system design helps in specifying hardware and system requirements and helps in defining the overall system architecture.
+		• Implementation − With inputs from the system design, the system is first developed in small programs called units, which are integrated in the next phase. Each unit is developed and tested for its functionality, which is referred to as Unit Testing.
+		• Integration and Testing − All the units developed in the implementation phase are integrated into a system after testing of each unit. Post integration the entire system is tested for any faults and failures.
+		• Deployment of system − Once the functional and non-functional testing is done; the product is deployed in the customer environment or released into the market.
+		• Maintenance − There are some issues which come up in the client environment. To fix those issues, patches are released. Also to enhance the product some better versions are released. Maintenance is done to deliver these changes in the customer environment.
+	All these phases are cascaded to each other in which progress is seen as flowing steadily downwards (like a waterfall) through the phases. The next phase is started only after the defined set of goals are achieved for previous phase and it is signed off, so the name "Waterfall Model". In this model, phases do not overlap.
+	Waterfall Model - Application
+	Every software developed is different and requires a suitable SDLC approach to be followed based on the internal and external factors. Some situations where the use of Waterfall model is most appropriate are −
+		• Requirements are very well documented, clear and fixed.
+		• Product definition is stable.
+		• Technology is understood and is not dynamic.
+		• There are no ambiguous requirements.
+		• Ample resources with required expertise are available to support the product.
+		• The project is short.
+	Waterfall Model - Advantages
+	The advantages of waterfall development are that it allows for departmentalization and control. A schedule can be set with deadlines for each stage of development and a product can proceed through the development process model phases one by one.
+	Development moves from concept, through design, implementation, testing, installation, troubleshooting, and ends up at operation and maintenance. Each phase of development proceeds in strict order.
+	Some of the major advantages of the Waterfall Model are as follows −
+		• Simple and easy to understand and use
+		• Easy to manage due to the rigidity of the model. Each phase has specific deliverables and a review process.
+		• Phases are processed and completed one at a time.
+		• Works well for smaller projects where requirements are very well understood.
+		• Clearly defined stages.
+		• Well understood milestones.
+		• Easy to arrange tasks.
+		• Process and results are well documented.
+	Waterfall Model - Disadvantages
+	The disadvantage of waterfall development is that it does not allow much reflection or revision. Once an application is in the testing stage, it is very difficult to go back and change something that was not well-documented or thought upon in the concept stage.
+	The major disadvantages of the Waterfall Model are as follows −
+		• No working software is produced until late during the life cycle.
+		• High amounts of risk and uncertainty.
+		• Not a good model for complex and object-oriented projects.
+		• Poor model for long and ongoing projects.
+		• Not suitable for the projects where requirements are at a moderate to high risk of changing. So, risk and uncertainty is high with this process model.
+		• It is difficult to measure progress within stages.
+		• Cannot accommodate changing requirements.
+		• Adjusting scope during the life cycle can end a project.
+		• Integration is done as a "big-bang. at the very end, which doesn't allow identifying any technological or business bottleneck or challenges early.
+	Agile SDLC model is a combination of iterative and incremental process models with focus on process adaptability and customer satisfaction by rapid delivery of working software product. Agile Methods break the product into small incremental builds. These builds are provided in iterations. Each iteration typically lasts from about one to three weeks. Every iteration involves cross functional teams working simultaneously on various areas like −
+		• Planning
+		• Requirements Analysis
+		• Design
+		• Coding
+		• Unit Testing and
+		• Acceptance Testing.
+	At the end of the iteration, a working product is displayed to the customer and important stakeholders.
+	What is Agile?
+	Agile model believes that every project needs to be handled differently and the existing methods need to be tailored to best suit the project requirements. In Agile, the tasks are divided to time boxes (small time frames) to deliver specific features for a release.
+	Iterative approach is taken and working software build is delivered after each iteration. Each build is incremental in terms of features; the final build holds all the features required by the customer.
+	Here is a graphical illustration of the Agile Model −
+	
+	The Agile thought process had started early in the software development and started becoming popular with time due to its flexibility and adaptability.
+	The most popular Agile methods include Rational Unified Process (1994), Scrum (1995), Crystal Clear, Extreme Programming (1996), Adaptive Software Development, Feature Driven Development, and Dynamic Systems Development Method (DSDM) (1995). These are now collectively referred to as Agile Methodologies, after the Agile Manifesto was published in 2001.
+	Following are the Agile Manifesto principles −
+		• Individuals and interactions − In Agile development, self-organization and motivation are important, as are interactions like co-location and pair programming.
+		• Working software − Demo working software is considered the best means of communication with the customers to understand their requirements, instead of just depending on documentation.
+		• Customer collaboration − As the requirements cannot be gathered completely in the beginning of the project due to various factors, continuous customer interaction is very important to get proper product requirements.
+		• Responding to change − Agile Development is focused on quick responses to change and continuous development.
+	Agile Vs Traditional SDLC Models
+	Agile is based on the adaptive software development methods, whereas the traditional SDLC models like the waterfall model is based on a predictive approach. Predictive teams in the traditional SDLC models usually work with detailed planning and have a complete forecast of the exact tasks and features to be delivered in the next few months or during the product life cycle.
+	Predictive methods entirely depend on the requirement analysis and planning done in the beginning of cycle. Any changes to be incorporated go through a strict change control management and prioritization.
+	Agile uses an adaptive approach where there is no detailed planning and there is clarity on future tasks only in respect of what features need to be developed. There is feature driven development and the team adapts to the changing product requirements dynamically. The product is tested very frequently, through the release iterations, minimizing the risk of any major failures in future.
+	Customer Interaction is the backbone of this Agile methodology, and open communication with minimum documentation are the typical features of Agile development environment. The agile teams work in close collaboration with each other and are most often located in the same geographical location.
+	Agile Model - Pros and Cons
+	Agile methods are being widely accepted in the software world recently. However, this method may not always be suitable for all products. Here are some pros and cons of the Agile model.
+	The advantages of the Agile Model are as follows −
+		• Is a very realistic approach to software development.
+		• Promotes teamwork and cross training.
+		• Functionality can be developed rapidly and demonstrated.
+		• Resource requirements are minimum.
+		• Suitable for fixed or changing requirements
+		• Delivers early partial working solutions.
+		• Good model for environments that change steadily.
+		• Minimal rules, documentation easily employed.
+		• Enables concurrent development and delivery within an overall planned context.
+		• Little or no planning required.
+		• Easy to manage.
+		• Gives flexibility to developers.
+	The disadvantages of the Agile Model are as follows −
+		• Not suitable for handling complex dependencies.
+		• More risk of sustainability, maintainability and extensibility.
+		• An overall plan, an agile leader and agile PM practice is a must without which it will not work.
+		• Strict delivery management dictates the scope, functionality to be delivered, and adjustments to meet the deadlines.
+		• Depends heavily on customer interaction, so if customer is not clear, team can be driven in the wrong direction.
+		• There is a very high individual dependency, since there is minimum documentation generated.
+		• Transfer of technology to new team members may be quite challenging due to lack of documentation.
+	
+	4. What is GIT and GITHUB?
+	Git is a version control system, a tool to manage your source code history. 
+	GitHub is a hosting service for Git repositories. So they are not the same thing: Git is the tool, GitHub is the service for projects that use Git.
+	S.No.	Git	GitHub
+	1.	Git is a software.	GitHub is a service.
+	2.	Git is a command-line tool	GitHub is a graphical user interface
+	3.	Git is installed locally on the system	GitHub is hosted on the web
+	4.	Git is maintained by linux.	GitHub is maintained by Microsoft.
+	5.	Git is focused on version control and code sharing.	GitHub is focused on centralized source code hosting.
+	6.	Git is a version control system to manage source code history. 	GitHub is a hosting service for Git repositories.
+		 
+	7.	Git was first released in 2005. 	GitHub was launched in 2008.
+		 
+	8.	Git has no user management feature. 	GitHub has a built-in user management feature.
+		 
+	9.	Git is open-source licensed.	GitHub includes a free-tier and pay-for-use tier.
+	10.	Git has minimal external tool configuration.	GitHub has an active marketplace for tool integration.
+	11.	Git provides a Desktop interface named Git Gui.	GitHub provides a Desktop interface named GitHub Desktop.
+	12.	Git competes with CVS, Azure DevOps Server, Subversion, Mercurial, etc.	GitHub competes with GitLab, Git Bucket, AWS Code Commit, etc.
+	
+	
+	5. What is AWS?
+	AWS is Amazon Web Services that provides cloud computing platforms and APIs from an individual to large scale companies that provides QA services. Its more than 200 featured services are located all over the world. AWS is the world's most comprehensive cloud platform. It provides ascendable and efficient cloud computing solutions.
+	
+	How AWS work -
+	AWS works usually in several configurations depending on user's requirements. The user should be able to distinguish the type of configuration used and the specific server map with respect to the AWS service.
+	
+	Let's have a look on the uses of AWS -
+	• AWS allows organizations to use the familiar programming models, operating systems, databases and architectures
+	• It is cost effective as user need to pay for only what he uses which is suitable for both short and long term commitments
+	• There is no need to finance on preserving the data center's
+	• It offers fast deployments
+	• Total ownership cost is very low compared to any private/dedicated servers
+	• AWS offers hybrid capabilities
+	• It allows user to deploy applications in multiple regions around the world with just few clicks.
+	Hope the above information helps.
+	What is AWS (Amazon Web Services)? - The Ultimate Guide (petri.com)
+	
+
+	6. What is SSH client in AWS?
+	SSH or Secure Shell is a network protocol that will allow you to securely connect our machine to an EC2 instance. You will be able to control the AWS EC2 instance from our command line
+	
+	Connect to EC2: AWS Session Manager vs SSH | AWS Tutorial (digitalcloud.training)
+	7. What is Linux hierarchy 
+	Filesystem hierarchy standard describes directory structure and its content in Unix and Unix like operating system. It explains where files and directories should be located and what it should contain.
+
+	
+	
+	8. What is AWS EC2?
+	Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. Amazon EC2's simple web service interface allows you to obtain and configure capacity with minimal friction.
+	
+	9. What is difference between ec2 and S3?
+	Amazon EC2 and Amazon S3 are fundamentally different types of services. EC2 allows you to run servers in the cloud with minimal effort on your part, while the S3 is designed for storing large amounts of static data and ideal for data backups
+	
+	10. What is AMI?
+	An Amazon Machine Image (AMI) is a supported and maintained image provided by AWS that provides the information required to launch an instance. You must specify an AMI when you launch an instance. You can launch multiple instances from a single AMI when you require multiple instances with the same configuration
+	
+	11. What is user management in linux?
+	
+	12. cown
+	chown command is used to change the file Owner or group. Whenever you want to change ownership you can use chown command. 
+	
+	13. port
+	
+14.Vpc
+	Virtual private cloud
+	15. EC2
+	EC2 nothing but elactice compute cloud.it is a web application. That provides resizable /rescalable  computer capacity
+	16. S3
+	S3 is nothing but Simple storage service
+	Its simply like a storage purpose
+	-->safe place to store your files
+           -->It is a object based storage system 0-5tera byte you can store in a month one bucket
+	-->you can increase the capasity unlimited
+	-->files are stored in buckets
+	-->s3 is a universal name space
+
+	17. IAM
+         Identity access management
+
+	18. Vcs
+	VCS is a Verson control system. Process of tracking and controlling
+	 the changes in the software
+	Goals:---team work, defect tracking, auditing, process management
+	19. Git advantages
+	Git is a source code management. Easy to manage ,easy to tracking and 
+	Advantages  
+	-->Speed
+	-->it will support non liner development support
+	--->fully distribution model
+	-->able to handle larger projects
