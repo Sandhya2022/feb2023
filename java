@@ -1,8 +1,13 @@
 this is created using echo
 
+<<<<<<< HEAD
 
 
 
 
 
-this is added to check the conflict issue and this line added in otp1 branch
+
+=======
+this is added main to see the conflict
+
+>>>>>>> main
